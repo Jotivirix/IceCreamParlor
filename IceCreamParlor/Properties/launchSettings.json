@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IceCreamParlor": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OUTPUT_PATH": "C:\\Users\\s0133325\\Desktop\\Alstom_Test\\results.txt"
+      }
+    }
+  }
+}

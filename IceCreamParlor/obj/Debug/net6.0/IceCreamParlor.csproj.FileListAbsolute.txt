@@ -1,0 +1,17 @@
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\bin\Debug\net6.0\IceCreamParlor.exe
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\bin\Debug\net6.0\IceCreamParlor.deps.json
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\bin\Debug\net6.0\IceCreamParlor.runtimeconfig.json
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\bin\Debug\net6.0\IceCreamParlor.dll
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\bin\Debug\net6.0\IceCreamParlor.pdb
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.csproj.AssemblyReference.cache
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.AssemblyInfoInputs.cache
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.AssemblyInfo.cs
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.csproj.CoreCompileInputs.cache
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.dll
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\refint\IceCreamParlor.dll
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.pdb
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.genruntimeconfig.cache
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\ref\IceCreamParlor.dll
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.Properties.Resources.resources
+C:\Users\s0133325\source\repos\IceCreamParlor\IceCreamParlor\obj\Debug\net6.0\IceCreamParlor.csproj.GenerateResource.cache
